@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-This project is an Amazon Sales Analysis Dashboard that tracks sales, products sold, and customer reviews. It shows monthly and weekly sales trends, product category performance, and top products by sales and reviews, helping businesses identify growth patterns and best-performing products easily.
+# SALSE ANALYSIS| AMAZON PRODUCTS
+## Project Objective
+To analyze and visualize Amazon product sales data in a clear and simple way.
+To identify sales trends, top-performing products, and customer review patterns.
+To support data-driven decision-making for improving sales strategies and business growth.
