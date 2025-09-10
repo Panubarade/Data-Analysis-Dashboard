@@ -22,5 +22,12 @@
 -Dashboard Interaction 
 - <a href="https://github.com/Panubarade/Data-Analysis-Dashboard/blob/main/sales%20analysis%20p1.jpg">View Dashboard</a>
 
+## Process
+-Data Collection – Gather Amazon sales data from CSV/Excel or database sources.
+-Data Cleaning – Remove errors, duplicates, and format data properly for analysis.
+-Data Modeling – Organize data into meaningful tables and relationships.
+-Visualization – Create charts for sales trends, product categories, and top products.
+-Dashboard Design – Add KPIs, filters, and interactive visuals for easy insights.
+
 ## Conclusion
 This Amazon Sales Analysis Dashboard provides a clear and interactive view of sales performance, product categories, and customer engagement. By highlighting key trends and top-performing products, it helps businesses make informed, data-driven decisions to boost growth and improve sales strategies.
