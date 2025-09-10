@@ -21,3 +21,6 @@
 
 -Dashboard Interaction 
 - <a href="https://github.com/Panubarade/Data-Analysis-Dashboard/blob/main/sales%20analysis%20p1.jpg">View Dashboard</a>
+
+## Conclusion
+This Amazon Sales Analysis Dashboard provides a clear and interactive view of sales performance, product categories, and customer engagement. By highlighting key trends and top-performing products, it helps businesses make informed, data-driven decisions to boost growth and improve sales strategies.
