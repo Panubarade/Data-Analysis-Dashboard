@@ -17,3 +17,6 @@
 - Which are the Top 5 products by sales?
 - Which are the Top 5 products by customer reviews?
 - How does sales performance vary by quarter or category filter?
+
+
+-Dashboard Interaction<a herf="ttps://github.com/Panubarade/Data-Analysis-Dashboard/blob/main/sales%20analysis%20p1.jpg">View Dashboard</a>
