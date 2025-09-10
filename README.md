@@ -29,5 +29,9 @@
 -Visualization – Create charts for sales trends, product categories, and top products.
 -Dashboard Design – Add KPIs, filters, and interactive visuals for easy insights.
 
+## Dashboard
+![sales analysis p1](https://github.com/user-attachments/assets/7c1bb38c-7c31-4068-9bf9-08c57261095e)
+
+
 ## Conclusion
 This Amazon Sales Analysis Dashboard provides a clear and interactive view of sales performance, product categories, and customer engagement. By highlighting key trends and top-performing products, it helps businesses make informed, data-driven decisions to boost growth and improve sales strategies.
