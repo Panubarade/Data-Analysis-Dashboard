@@ -1,6 +1,19 @@
 # SALSE ANALYSIS| AMAZON PRODUCTS
 ## Project Objective
-To analyze and visualize Amazon product sales data in a clear and simple way, and identify sales trends, top-performing products, and customer review patterns.support data-driven decision-making for improving sales strategies and business growth.
+- To analyze and visualize Amazon product sales data in a clear and simple way.
+- To identify sales trends, top-performing products.
+- Tocustomer review patterns.support data-driven decision-making for improving sales strategies and business growth.
 
 ## Dataset Used
 - <a href="https://github.com/Panubarade/Data-Analysis-Dashboard/blob/main/Amazon_Combined_Data.xlsx">Data set</a>
+
+## Questions (KPIs)
+
+- What is the total sales (YTD & QTD) achieved so far?
+- How many products have been sold during the selected period?
+- What is the total number of customer reviews received?
+- Which product categories contribute the most to overall sales?
+- What are the monthly and weekly sales trends?
+- Which are the Top 5 products by sales?
+- Which are the Top 5 products by customer reviews?
+- How does sales performance vary by quarter or category filter?
