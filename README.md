@@ -20,4 +20,4 @@
 
 
 -Dashboard Interaction 
--<a herf="https://github.com/Panubarade/Data-Analysis-Dashboard/blob/main/sales%20analysis%20p1.jpg">View Dashboard</a>
+- <a herf="https://github.com/Panubarade/Data-Analysis-Dashboard/blob/main/sales%20analysis%20p1.jpg">View Dashboard</a>
